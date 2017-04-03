@@ -1,6 +1,5 @@
 # Sentiment-Analysis-in-Telugu
 
-The sentiment analysis in telugu is carried out 
 This Telugu SentiPhraseNet contains the Telugu phrases interms of Negtaive, Positive and Neutral sentiments
 
 The count of phrases are:
