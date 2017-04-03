@@ -5,14 +5,14 @@ This Telugu SentiPhraseNet contains the Telugu phrases interms of Negtaive, Posi
 
 The count of phrases are:
 
-Bigrams_negative :  360
+Bigrams_negative :  480
 
-Bigrams_positive :  498
+Bigrams_positive :  628
 
-Bigrams_neutral  :  1053 
+Bigrams_neutral  :  1155 
 
-Trigrams_negative :  1416 
+Trigrams_negative :  1780
 
-Trigrams_positive :  1345  
+Trigrams_positive :  1613  
 
-Trigrams_neutral  :  1274
+Trigrams_neutral  :  1557
